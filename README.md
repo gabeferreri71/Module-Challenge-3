@@ -115,6 +115,7 @@ VI. Similar to before, we are going the use the .describe() function on profit_p
 
 profit_per_trade_early.plot(figsize = (10, 5), title = "January 16, 2018 Profit Per Trade", color = "blue", ylabel = "Profit($)") 
 
+Note that some additional parameters like ylabel were included to make the plots more presentable anf formatted.
 
 *********************************************************************************************************************************************************************************
 VII. Using the sum function, we calculate the total profits from the early date, which is reflected with:
